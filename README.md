@@ -16,14 +16,14 @@
 
 
 ## Requirements
-https://github.com/hacoidev/ophim-core
+https://github.com/devcuongnguyen/ophim-core
 
 ## Install
-1. Tại thư mục của Project: `composer require hacoidev/ophim-ripple`
+1. Tại thư mục của Project: `composer require devcuongnguyen/ophim-ripple`
 2. Kích hoạt giao diện trong Admin Panel
 
 ## Update
-1. Tại thư mục của Project: `composer update hacoidev/ophim-ripple`
+1. Tại thư mục của Project: `composer update devcuongnguyen/ophim-ripple`
 2. Re-Activate giao diện trong Admin Panel
 
 ## Note
@@ -46,5 +46,5 @@ https://github.com/hacoidev/ophim-core
     + `Top phim lẻ||type|single|view_total|desc|9`
 
 ### Custom View Blade
-- File blade gốc trong Package: `/vendor/hacoidev/ophim-ripple/resources/views/ripple`
+- File blade gốc trong Package: `/vendor/devcuongnguyen/ophim-ripple/resources/views/ripple`
 - Copy file cần custom đến: `/resources/views/vendor/themes/ripple`
